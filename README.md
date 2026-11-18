@@ -20,22 +20,22 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 I am a final-year **BSc Computer Science** student passionate about building practical, data-driven, and secure software applications. My core focus lies in backend logic, Artificial Intelligence, and clean web interfaces.
 
-- 🔭 **Currently Working On:** An **AI Judgement System** using Python, NLP (TF-IDF), and Cosine Similarity.
-- 🌱 **Currently Learning:** Advanced Machine Learning, Software Testing & Quality Assurance (STQA), and Ethical Hacking.
-- 💡 **Interests:** Python Development, Database Management, Network Security, and Full-Stack Web Development.
-- 🎯 **Goal:** To engineer impactful software solutions and grow into a versatile Software Developer.
+-  **Currently Working On:** An **AI Judgement System** using Python, NLP (TF-IDF), and Cosine Similarity.
+-  **Currently Learning:** Advanced Machine Learning, Software Testing & Quality Assurance (STQA), and Ethical Hacking.
+-  **Interests:** Python Development, Database Management, Network Security, and Full-Stack Web Development.
+-  **Goal:** To engineer impactful software solutions and grow into a versatile Software Developer.
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 #### **Languages & Web Development**
 <p>
@@ -54,7 +54,7 @@ I am a final-year **BSc Computer Science** student passionate about building pra
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
@@ -62,7 +62,7 @@ I am a final-year **BSc Computer Science** student passionate about building pra
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rehantahasildar16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8" />
@@ -75,7 +75,7 @@ I am a final-year **BSc Computer Science** student passionate about building pra
 
 ---
 
-### 📈 Contribution Activity
+###  Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehantahasildar16&bg_color=0F172A&color=38BDF8&line=0284C7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
