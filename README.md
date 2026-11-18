@@ -49,12 +49,7 @@ I am a final-year **BSc Computer Science** student passionate about building pra
 
 #### **Domains, Networking & Testing**
 <p>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-0284C7?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethical_Hacking-1E293B?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/STQA_%26_Testing-0D9488?style=for-the-badge&logo=checkmarx&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git_%26_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
